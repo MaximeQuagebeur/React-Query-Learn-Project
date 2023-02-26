@@ -12,7 +12,7 @@ yarn
 
 This will install all the necessary dependencies.
 
-Usage
+## Usage
 
 To start the server, run the following command:
 
